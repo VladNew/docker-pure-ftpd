@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM microsoft/dotnet-samples:aspnetapp
 
 # feel free to change this ;)
 LABEL maintainer "Andrew Stilliard <andrew.stilliard@gmail.com>"
